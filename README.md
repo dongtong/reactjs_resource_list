@@ -5,3 +5,5 @@
 * [React.js中文网站](http://reactjs.cn/)
 * [Awesome React.js资源列表](https://github.com/enaqx/awesome-react)
 * [ReactNative学习资源列表](https://github.com/ele828/react-native-guide)
+* [React高级接口](https://facebook.github.io/react/docs/top-level-api.html)
+* [JSX](https://facebook.github.io/jsx/)
